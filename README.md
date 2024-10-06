@@ -6,8 +6,8 @@ I'm a motivated former military professional with a strong foundation in teamwor
 ---
 
 ### 🔨 What I'm Working On:
-** Java & JavaScript **: Currently, I’m developing my full-stack skills by building dynamic web applications with React and Spring Boot. My goal is to create scalable projects, continuously learning and refining my understanding of core concepts to enhance both efficiency and scalability.
-** Continuous Learning **: I'm committed to staying current with the latest web development frameworks and best practices. I actively take courses and tutorials to deepen my knowledge of web technologies.
+**Java & JavaScript**: Currently, I’m developing my full-stack skills by building dynamic web applications with React and Spring Boot. My goal is to create scalable projects, continuously learning and refining my understanding of core concepts to enhance both efficiency and scalability.
+**Continuous Learning**: I'm committed to staying current with the latest web development frameworks and best practices. I actively take courses and tutorials to deepen my knowledge of web technologies.
 
 ---
 
