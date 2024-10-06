@@ -1,13 +1,13 @@
 ## Hi there, I`m Stefan 👋
 
 ### 🚀 Aspiring Java, JavaScript Developer
-I'm a motivated ex-military professional with a strong foundation in teamwork, discipline, and resilience. I recently completed the SoftUni Java Track and Telerik Academy’s JavaScript Track. Over the past years, I've immersed myself in web development and am now eager to bring my problem-solving and programming skills to a Developer role.
+I'm a motivated former military professional with a strong foundation in teamwork, discipline, and resilience. I recently completed the SoftUni Java Track and Telerik Academy’s JavaScript Track. Over the past years, I've immersed myself in web development and am now eager to bring my problem-solving and programming skills to a Developer role.
 
 ---
 
 ### 🔨 What I'm Working On:
-Java & JavaScript: Currently, I’m honing my full-stack skills by building dynamic web applications with React and Spring Boot. My goal is to create scalable projects, continuously learning and refining my understanding of core concepts to enhance both efficiency and scalability.
-Continuous Learning: I'm committed to staying current with the latest web development frameworks and best practices. I actively take courses and tutorials to deepen my knowledge of full-stack technologies.
+** Java & JavaScript **: Currently, I’m developing my full-stack skills by building dynamic web applications with React and Spring Boot. My goal is to create scalable projects, continuously learning and refining my understanding of core concepts to enhance both efficiency and scalability.
+** Continuous Learning **: I'm committed to staying current with the latest web development frameworks and best practices. I actively take courses and tutorials to deepen my knowledge of web technologies.
 
 ---
 
@@ -29,12 +29,12 @@ Continuous Learning: I'm committed to staying current with the latest web develo
 ---
 
 ### 🎯 Hobbies:
-- **Brazilian Jiu-Jitsu**: Actively training in Brazilian Jiu-Jitsu, developing physical and mental resilience.
+- **Brazilian Jiu-Jitsu**: Actively training, developing physical and mental resilience.
 - **Reading**: I enjoy reading non-fiction books to explore new ideas and gain insights into how the world works.
 - **Scale Modeling**: I work on miniature scale models, which help me build patience, attention to detail, and creativity.
 
 ---
 
 ### 📫 How to Reach Me:
-- **Email**: [stefanstoyanov001gmail.com]
+- **Email**: [stefanstoyanov001@gmail.com]
 - **LinkedIn**: [https://www.linkedin.com/in/stefan-stoyanov-20882a182/]
