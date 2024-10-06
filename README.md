@@ -1,7 +1,7 @@
 ## Hi there, I`m Stefan 👋
 
 ### 🚀 Aspiring Java, JavaScript Developer
-I'm a motivated ex-military professional with a strong foundation in teamwork, discipline, and resilience. After transitioning from trading to coding, I recently completed the SoftUni Java Track and Telerik Academy’s JavaScript Track. Over the past years, I've immersed myself in web development and am now eager to bring my problem-solving and programming skills to a Developer role.
+I'm a motivated ex-military professional with a strong foundation in teamwork, discipline, and resilience. I recently completed the SoftUni Java Track and Telerik Academy’s JavaScript Track. Over the past years, I've immersed myself in web development and am now eager to bring my problem-solving and programming skills to a Developer role.
 
 ---
 
