@@ -36,5 +36,5 @@ Continuous Learning: I'm committed to staying current with the latest web develo
 ---
 
 ### 📫 How to Reach Me:
-- **Email**: stefanstoyanov001gmail.com
+- **Email**: [stefanstoyanov001gmail.com]
 - **LinkedIn**: [https://www.linkedin.com/in/stefan-stoyanov-20882a182/]
